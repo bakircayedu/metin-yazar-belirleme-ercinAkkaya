@@ -1,0 +1,16 @@
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\bin\Debug\netcoreapp3.1\veri yapıları proje.exe
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\bin\Debug\netcoreapp3.1\veri yapıları proje.deps.json
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\bin\Debug\netcoreapp3.1\veri yapıları proje.runtimeconfig.json
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\bin\Debug\netcoreapp3.1\veri yapıları proje.runtimeconfig.dev.json
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\bin\Debug\netcoreapp3.1\veri yapıları proje.dll
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\bin\Debug\netcoreapp3.1\veri yapıları proje.pdb
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\obj\Debug\netcoreapp3.1\veri yapıları proje.csproj.AssemblyReference.cache
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\obj\Debug\netcoreapp3.1\veri_yapıları_proje.Form1.resources
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\obj\Debug\netcoreapp3.1\veri yapıları proje.csproj.GenerateResource.cache
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\obj\Debug\netcoreapp3.1\veri yapıları proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\obj\Debug\netcoreapp3.1\veri yapıları proje.AssemblyInfoInputs.cache
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\obj\Debug\netcoreapp3.1\veri yapıları proje.AssemblyInfo.cs
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\obj\Debug\netcoreapp3.1\veri yapıları proje.csproj.CoreCompileInputs.cache
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\obj\Debug\netcoreapp3.1\veri yapıları proje.dll
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\obj\Debug\netcoreapp3.1\veri yapıları proje.pdb
+C:\Users\ercin\Desktop\veri yapıları proje\veri yapıları proje\veri yapıları proje\obj\Debug\netcoreapp3.1\veri yapıları proje.genruntimeconfig.cache
